@@ -291,7 +291,7 @@ nav{
     margin: auto;
 }
 .title{
-    width: 30%;
+    width: 50%;
     margin: 0 auto;
     text-align: center;
     padding-top: 300px;
@@ -305,6 +305,7 @@ nav{
 .title a{
     padding-top: 100px;
     display: block;
+    text-align: center;
 }
 .title img{
     width: 200px;
