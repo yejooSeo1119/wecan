@@ -181,6 +181,7 @@ nav{
 .nav_inner > a{
     width: 100%;
     color: #000;
+    text-align: left;
 }
 .nav_inner img{
     width: 100px;
